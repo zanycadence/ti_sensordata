@@ -7,8 +7,8 @@ var c = new Client();
 
 
 //ARTIK cloud stuff
-var bearer = "Bearer 913c85f2ecee428c8419eb6930ccb00d";
-var sdid = "44559acf302044efa5c320eddbf56350";
+var bearer = "Bearer INSERT_DEVICE_TOKEN_HERE";
+var sdid = "INSERT_DEVICE_ID_HERE";
 var artikCloud = "https://api.artik.cloud/v1.1/messages";
 
 //sensorTagPost
