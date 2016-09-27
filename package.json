@@ -1,0 +1,17 @@
+{
+  "name": "ti_sensortag",
+  "version": "0.0.1",
+  "description": "Experiments with TI sensor tag",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Elijah Scheele",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.1",
+    "node-rest-client": "^2.0.1",
+    "sensortag": "^1.2.3",
+    "util": "^0.10.3"
+  }
+}
